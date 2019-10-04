@@ -1,0 +1,13 @@
+rider
+person-group-far-away
+rider+vehicle-group-far-away
+bicycle-group
+pedestrian
+tricycle-group
+buggy-group
+scooter-group
+motorbike-group
+motorbike
+bicycle
+wheelchair-group
+

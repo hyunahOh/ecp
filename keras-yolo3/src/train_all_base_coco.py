@@ -26,7 +26,7 @@ def _main():
     annotation_path = 'train_op1.txt'
     annotation_path2 = 'val_op1.txt'
 
-    log_dir = 'logs/all_category_coco_pretrain_3/'
+    log_dir = 'logs/all_category_coco_pretrain_4/'
     classes_path = 'model_data/ecp_classes_op1.txt'
     anchors_path = 'model_data/ecp_anchors_op1.txt'
     class_names = get_classes(classes_path)
@@ -41,7 +41,7 @@ def _main():
             freeze_body=2, weights_path='model_data/tiny_yolo_weights.h5')
     else:
         model = create_model(input_shape, anchors, num_classes, load_pretrained=False,
-            freeze_body=0, weights_path='logs/all_category_coco_pretrain_2/trained_op1_coco_unfreezed.h5') # make sure you know what you freeze
+            freeze_body=0, weights_path='logs/all_category_coco_pretrain_3/trained_op1_coco_unfreezed.h5') # make sure you know what you freeze
         # model = multi_gpu_model(model, gpus=4)
 
     logging = TensorBoard(log_dir=log_dir)
