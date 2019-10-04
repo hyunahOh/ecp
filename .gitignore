@@ -1,0 +1,8 @@
+#python virtual env
+venv/
+
+#Intellij IDEA
+.idea/
+
+#input data
+input/

@@ -1,0 +1,317 @@
+person-group-far-awaydepiction
+pedestrianoccluded>40, behind-glass
+pedestrian
+pedestrianoccluded>10
+pedestrianoccluded>80, behind-glass
+bicycle-group
+pedestrianoccluded>80, behind-glass, unsure_orientation
+pedestrianoccluded>80
+person-group-far-away
+pedestrianoccluded>40
+person-group-far-awaytruncated>10, occluded>10
+motorbike-group
+rider
+i'm bicycle child of rider
+person-group-far-awaydepiction, occluded>10
+pedestriantruncated>40
+person-group-far-awaybehind-glass
+person-group-far-awayoccluded>10
+person-group-far-awayoccluded>40
+pedestrianbehind-glass
+pedestriantruncated>10
+bicycle-groupoccluded>40
+pedestrianoccluded>80, unsure_orientation
+bicycle-groupoccluded>10
+pedestrianoccluded>10, behind-glass
+bicycle-groupoccluded>80
+bicycle-grouptruncated>10
+riderdepiction
+rideroccluded>10
+buggy-group
+pedestriantruncated>80, unsure_orientation
+pedestriantruncated>80, occluded>80
+i'm wheelchair child of rider
+scooter-groupoccluded>80
+scooter-group
+bicycle-grouptruncated>40
+motorbike-groupoccluded>40
+rider+vehicle-group-far-away
+person-group-far-awayoccluded>80
+person-group-far-awaydepiction, occluded>40
+pedestriantruncated>10, occluded>40
+pedestrianoccluded>40, unsure_orientation
+person-group-far-awayoccluded>40, behind-glass
+buggy-groupoccluded>40
+rideroccluded>80
+rideroccluded>40
+pedestriantruncated>40, unsure_orientation
+pedestrianoccluded>10, unsure_orientation
+person-group-far-awaydepiction, behind-glass
+bicycle-grouptruncated>80
+i'm buggy child of rider
+pedestriansitting-lying
+bicycle-groupoccluded>10, truncated>10
+pedestriantruncated>40, occluded>10, behind-glass
+scooter-grouptruncated>10
+i'm motorbike child of rider
+pedestriantruncated>40, occluded>40
+pedestriantruncated>80
+rider+vehicle-group-far-awaydepiction
+motorbike-groupoccluded>80
+pedestriantruncated>10, occluded>10
+i'm co-rider child of rider
+pedestriansitting-lying, behind-glass
+i'm tricycle child of rider
+pedestrianoccluded>10, truncated>40
+pedestrianoccluded>40, truncated>40
+pedestrianoccluded>10, sitting-lying, behind-glass
+pedestrianoccluded>40, sitting-lying
+i'm scooter child of rider
+ridertruncated>10
+buggy-groupoccluded>80
+pedestrianunsure_orientation
+pedestrianoccluded>80, sitting-lying, unsure_orientation
+pedestrianoccluded>10, sitting-lying
+ridertruncated>80
+pedestrianoccluded>40, sitting-lying, behind-glass
+person-group-far-awayoccluded>40, sitting-lying, behind-glass
+ridertruncated>80, unsure_orientation
+ridertruncated>40
+motorbike-groupdepiction
+bicycle-groupdepiction
+pedestriansitting-lying, occluded>40, behind-glass
+pedestrianunsure_orientation, occluded>40, behind-glass
+pedestrianoccluded>10, truncated>10
+tricycle-group
+pedestrianoccluded>80, unsure_orientation, sitting-lying
+bicycle-groupbehind-glass
+pedestrianunsure_orientation, occluded>40, sitting-lying, behind-glass
+pedestrianoccluded>80, sitting-lying
+pedestrianoccluded>80, unsure_orientation, behind-glass, sitting-lying
+motorbike-groupoccluded>10
+pedestrianoccluded>10, behind-glass, unsure_orientation
+person-group-far-awayoccluded>80, unsure_orientation
+rideroccluded>80, unsure_orientation
+person-group-far-awayoccluded>40, unsure_orientation
+scooter-groupoccluded>40
+bicycle-grouptruncated>10, occluded>10
+rider+vehicle-group-far-awayoccluded>40
+person-group-far-awayoccluded>10, unsure_orientation
+pedestriantruncated>40, sitting-lying
+pedestrianoccluded>80, truncated>40, unsure_orientation
+pedestrianbehind-glass, occluded>40, unsure_orientation
+scooter-groupoccluded>10
+person-group-far-awayunsure_orientation
+buggy-groupoccluded>10
+bicycle-grouptruncated>80, occluded>40
+bicycle-grouptruncated>10, occluded>40
+pedestrianoccluded>10, occluded>40, unsure_orientation
+bicycle-groupoccluded>40, behind-glass
+person-group-far-awayoccluded>40, sitting-lying
+pedestriantruncated>10, unsure_orientation
+scooter-grouptruncated>40, occluded>40
+bicycle-groupoccluded>10, truncated>40
+bicycle-groupoccluded>80, unsure_orientation
+person-group-far-awaytruncated>10, occluded>40, unsure_orientation
+rider+vehicle-group-far-awayoccluded>10
+person-group-far-awaytruncated>10
+person-group-far-awayoccluded>10, sitting-lying
+scooter-grouptruncated>40
+rideroccluded>80, truncated>40
+pedestrianoccluded>80, unsure_orientation, behind-glass
+pedestrianoccluded>40, sitting-lying, unsure_orientation
+rider+vehicle-group-far-awayoccluded>80
+person-group-far-awaysitting-lying
+motorbike-grouptruncated>10
+rideroccluded>40, behind-glass
+ridertruncated>10, occluded>10
+person-group-far-awayoccluded>80, sitting-lying, behind-glass
+pedestrianbehind-glass, occluded>40, sitting-lying
+scooter-groupoccluded>40, truncated>40
+rideroccluded>80, behind-glass
+scooter-groupoccluded>80, behind-glass
+pedestriantruncated>40, occluded>40, unsure_orientation
+rideroccluded>10, truncated>10
+rideroccluded>10, truncated>40
+person-group-far-awayoccluded>80, behind-glass
+pedestriantruncated>10, sitting-lying
+scooter-grouptruncated>80
+ridersitting-lying
+pedestriantruncated>80, occluded>40
+ridertruncated>10, occluded>10, unsure_orientation
+motorbike-grouptruncated>40
+pedestrianoccluded>80, unsure_orientation, sitting-lying, behind-glass
+pedestriantruncated>80, unsure_orientation, behind-glass
+ridertruncated>40, unsure_orientation
+pedestrianoccluded>80, sitting-lying, behind-glass
+person-group-far-awaysitting-lying, behind-glass
+scooter-groupdepiction
+pedestriansitting-lying, unsure_orientation
+pedestrianoccluded>80, behind-glass, sitting-lying
+rideroccluded>10, behind-glass
+rideroccluded>40, sitting-lying
+scooter-grouptruncated>10, occluded>40
+rider+vehicle-group-far-awaysitting-lying
+pedestrianskating, occluded>10
+pedestriantruncated>10, occluded>10, sitting-lying
+pedestrianoccluded>10, sitting-lying, unsure_orientation
+pedestrianoccluded>80, occluded>40
+rideroccluded>10, sitting-lying
+pedestriantruncated>40, occluded>10
+pedestrianoccluded>80, truncated>40
+person-group-far-awayoccluded>80, behind-glass, unsure_orientation
+person-group-far-awaytruncated>80, unsure_orientation
+pedestrianoccluded>10, truncated>40, unsure_orientation
+motorbike-groupoccluded>10, truncated>10
+pedestrianskating
+motorbike-grouptruncated>80
+pedestriantruncated>10, occluded>40, unsure_orientation
+pedestrianbehind-glass, occluded>40, sitting-lying, unsure_orientation
+pedestrianoccluded>80, truncated>10, unsure_orientation
+pedestrianoccluded>40, truncated>40, unsure_orientation
+pedestrianoccluded>80, truncated>10, sitting-lying, behind-glass
+person-group-far-awayoccluded>80, behind-glass, sitting-lying, unsure_orientation
+pedestrianoccluded>80, behind-glass, sitting-lying, unsure_orientation
+pedestrianoccluded>80, truncated>80, unsure_orientation
+person-group-far-awayoccluded>80, sitting-lying
+motorbike-grouptruncated>40, occluded>40
+pedestrianbehind-glass, occluded>40
+person-group-far-awaydepiction, occluded>10, behind-glass
+motorbike-grouptruncated>10, truncated>40
+motorbike-groupoccluded>40, truncated>40
+bicycle-groupoccluded>10, occluded>40
+bicycle-grouptruncated>40, occluded>40
+scooter-grouptruncated>10, occluded>10
+rideroccluded>80, sitting-lying
+riderskating
+bicycle
+pedestrianoccluded>80, truncated>10
+pedestriantruncated>80, occluded>80, unsure_orientation
+pedestriantruncated>10, occluded>80
+pedestriantruncated>10, occluded>10, behind-glass
+buggy-grouptruncated>10
+scooter-groupoccluded>10, truncated>40
+bicycle-groupoccluded>10, behind-glass
+person-group-far-awaytruncated>80
+person-group-far-awaybehind-glass, occluded>40, unsure_orientation
+scooter-groupoccluded>10, truncated>10
+rideroccluded>10, unsure_orientation
+pedestriantruncated>80, occluded>40, unsure_orientation
+scooter-groupbehind-glass
+scooter-groupoccluded>10, behind-glass
+ridertruncated>40, occluded>40
+pedestrianoccluded>10, truncated>10, sitting-lying
+pedestriantruncated>80, occluded>10, behind-glass
+pedestrianoccluded>40, truncated>10
+pedestrianoccluded>40, truncated>40, sitting-lying
+rider+vehicle-group-far-awayoccluded>40, behind-glass
+scooter-groupoccluded>40, behind-glass
+pedestriantruncated>80, sitting-lying, unsure_orientation
+tricycle-grouptruncated>40
+rideroccluded>40, truncated>40
+person-group-far-awayoccluded>40, occluded>10
+person-group-far-awayunsure_orientation, occluded>40, behind-glass
+pedestrianoccluded>10, truncated>10, unsure_orientation
+person-group-far-awayoccluded>40, sitting-lying, unsure_orientation
+rider+vehicle-group-far-awayoccluded>40, sitting-lying, unsure_orientation
+person-group-far-awayunsure_orientation, occluded>40, sitting-lying, behind-glass
+rideroccluded>80, truncated>10
+buggy-groupdepiction
+riderunsure_orientation
+pedestrianbehind-glass, unsure_orientation
+pedestrianunsure_orientation, behind-glass
+person-group-far-awayoccluded>80, unsure_orientation, behind-glass
+wheelchair-group
+person-group-far-awayoccluded>10, behind-glass
+person-group-far-awayoccluded>40, unsure_orientation, occluded>80
+pedestrianoccluded>10, unsure_orientation, behind-glass
+person-group-far-awaytruncated>40, unsure_orientation
+person-group-far-awayoccluded>10, sitting-lying, unsure_orientation
+pedestriantruncated>10, occluded>40, behind-glass
+ridertruncated>10, occluded>40
+person-group-far-awaytruncated>40
+pedestrianoccluded>40, truncated>40, sitting-lying, behind-glass
+pedestrianoccluded>80, occluded>10
+tricycle-groupoccluded>10
+pedestrianoccluded>40, unsure_orientation, truncated>40, sitting-lying, behind-glass
+motorbike-groupoccluded>80, occluded>40
+riderbehind-glass
+pedestriantruncated>40, occluded>40, sitting-lying, behind-glass
+pedestrianoccluded>10, truncated>40, sitting-lying
+pedestriantruncated>80, occluded>10
+person-group-far-awaybehind-glass, occluded>40, sitting-lying, unsure_orientation
+person-group-far-awaybehind-glass, sitting-lying, unsure_orientation
+bicycle-groupoccluded>80, occluded>40
+person-group-far-awayoccluded>80, behind-glass, sitting-lying
+pedestriantruncated>10, occluded>40, sitting-lying
+scooter-grouptruncated>80, occluded>40
+person-group-far-awayoccluded>10, occluded>40, unsure_orientation
+person-group-far-awayoccluded>80, sitting-lying, unsure_orientation
+pedestriantruncated>40, occluded>40, behind-glass
+scooter-grouptruncated>80, unsure_orientation
+person-group-far-awayoccluded>10, truncated>40
+scooter-groupdepiction, occluded>40
+pedestriantruncated>40, behind-glass
+pedestriantruncated>10, occluded>40, sitting-lying, behind-glass
+motorbike-grouptruncated>10, occluded>10
+bicycle-grouptruncated>80, occluded>10
+person-group-far-awayoccluded>80, unsure_orientation, sitting-lying, behind-glass
+person-group-far-awaytruncated>10, occluded>40, behind-glass
+pedestrianoccluded>10, occluded>40, behind-glass
+motorbike-groupoccluded>80, truncated>10
+rideroccluded>40, unsure_orientation
+rider+vehicle-group-far-awaytruncated>80
+motorbike-groupoccluded>10, truncated>40
+ridertruncated>80, occluded>10
+scooter-groupoccluded>80, truncated>10
+scooter-groupoccluded>80, truncated>10, behind-glass
+motorbike-grouptruncated>80, occluded>10
+motorbike-grouptruncated>80, occluded>40
+pedestriantruncated>10, behind-glass
+pedestriantruncated>80, occluded>10, unsure_orientation
+pedestrianoccluded>40, truncated>40, sitting-lying, unsure_orientation
+person-group-far-awaysitting-lying, unsure_orientation
+person-group-far-awayoccluded>10, unsure_orientation, behind-glass
+pedestriantruncated>40, sitting-lying, behind-glass
+pedestrianoccluded>10, occluded>40
+person-group-far-awaytruncated>80, occluded>80
+person-group-far-awaydepiction, truncated>80, unsure_orientation
+pedestriantruncated>80, behind-glass
+person-group-far-awaytruncated>80, occluded>40, behind-glass
+person-group-far-awaytruncated>40, occluded>10
+person-group-far-awaydepiction, occluded>80
+pedestriantruncated>80, occluded>80, behind-glass
+motorbike-groupoccluded>80, unsure_orientation
+pedestriantruncated>40, sitting-lying, unsure_orientation
+person-group-far-awayoccluded>10, behind-glass, unsure_orientation
+bicycleoccluded>40
+motorbiketruncated>10
+motorbike
+pedestrianskating, occluded>10, sitting-lying
+wheelchair-groupoccluded>40
+scooter-groupsitting-lying
+bicycle-groupoccluded>40, unsure_orientation
+scooter-grouptruncated>80, occluded>10
+pedestriantruncated>40, occluded>40, sitting-lying, unsure_orientation
+pedestriansitting-lying, occluded>10
+pedestrianskating, occluded>40
+person-group-far-awayoccluded>10, truncated>10
+pedestrianunsure_orientation, truncated>10, occluded>40, behind-glass
+pedestrianoccluded>80, occluded>40, sitting-lying, unsure_orientation
+bicycleoccluded>10
+buggy-groupoccluded>40, unsure_orientation
+pedestrianoccluded>40, occluded>10, truncated>40
+pedestrianoccluded>80, truncated>80
+person-group-far-awaytruncated>40, occluded>40
+rider+vehicle-group-far-awaysitting-lying, unsure_orientation
+tricycle-groupoccluded>80
+buggy-grouptruncated>80
+buggy-grouptruncated>40
+rider+vehicle-group-far-awaybehind-glass
+pedestriantruncated>80, sitting-lying, behind-glass
+motorbike-grouptruncated>80, occluded>80
+motorbikeoccluded>10
+person-group-far-awayoccluded>80, truncated>40, unsure_orientation
+person-group-far-awaytruncated>40, behind-glass
+person-group-far-awaytruncated>80, sitting-lying
+motorbike-groupbehind-glass
